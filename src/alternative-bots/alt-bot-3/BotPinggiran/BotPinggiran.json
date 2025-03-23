@@ -1,0 +1,10 @@
+{
+  "name": "Bot Pinggiran",
+  "version": "1.0",
+  "authors": ["Barru Adi"],
+  "description": "duh apa ini bot",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 8.0",
+  "programmingLang": "C# 12.0"
+}
