@@ -1,0 +1,5 @@
+C:\LifeOS\College\Semester-4\STIME\TUBES\TUBES1\tubes1-if2211-starter-pack\sample-bots-csharp-0.30.0\FaqihBot\obj\Debug\net6.0\FaqihBot.csproj.AssemblyReference.cache
+C:\LifeOS\College\Semester-4\STIME\TUBES\TUBES1\tubes1-if2211-starter-pack\sample-bots-csharp-0.30.0\FaqihBot\obj\Debug\net6.0\FaqihBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\LifeOS\College\Semester-4\STIME\TUBES\TUBES1\tubes1-if2211-starter-pack\sample-bots-csharp-0.30.0\FaqihBot\obj\Debug\net6.0\FaqihBot.AssemblyInfoInputs.cache
+C:\LifeOS\College\Semester-4\STIME\TUBES\TUBES1\tubes1-if2211-starter-pack\sample-bots-csharp-0.30.0\FaqihBot\obj\Debug\net6.0\FaqihBot.AssemblyInfo.cs
+C:\LifeOS\College\Semester-4\STIME\TUBES\TUBES1\tubes1-if2211-starter-pack\sample-bots-csharp-0.30.0\FaqihBot\obj\Debug\net6.0\FaqihBot.csproj.CoreCompileInputs.cache
