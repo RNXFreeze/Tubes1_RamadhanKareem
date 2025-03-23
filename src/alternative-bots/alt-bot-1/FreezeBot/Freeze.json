@@ -1,0 +1,10 @@
+{
+  "name": "Freeze Bot",
+  "version": "1.0",
+  "authors": ["M. Raihan Nazhim O."],
+  "description": "The Champion Bot - Jiggle Sine Function",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 6.0",
+  "programmingLang": "C# 10.0"
+}
