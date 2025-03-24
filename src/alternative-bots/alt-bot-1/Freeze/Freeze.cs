@@ -21,6 +21,7 @@ public class Freeze : Bot {
         BodyColor = Color.LightBlue;
         TurretColor = Color.Blue;
         RadarColor = Color.Yellow;
+        BulletColor = Color.Black;
         ScanColor = Color.Orange;
 
         GunTurnRate = 20.0;
