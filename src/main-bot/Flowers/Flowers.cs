@@ -20,11 +20,11 @@ public class Flowers : Bot {
     }
 
     public override void Run() {
-        BodyColor = Color.Purple;
-        TurretColor = Color.Orange;
-        RadarColor = Color.Black;
-        ScanColor = Color.Cyan
-        BulletColor = Color.Blue;
+        BodyColor = Color.Pink;
+        TurretColor = Color.Purple;
+        RadarColor = Color.Pink;
+        ScanColor = Color.Pink;
+        BulletColor = Color.Black;
         GunTurnRate = 50;
 
         while (IsRunning) {
