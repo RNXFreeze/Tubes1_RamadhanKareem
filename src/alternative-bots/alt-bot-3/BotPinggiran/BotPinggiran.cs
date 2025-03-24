@@ -25,7 +25,7 @@ public class BotPinggiran : Bot
         TurnRight(90);
         TurnGunRight(90);
         while (IsRunning) {
-            Forward(ArenaHeight * turnDirection) - 20);
+            Forward((ArenaHeight * turnDirection) - 20);
         }
     }
 
