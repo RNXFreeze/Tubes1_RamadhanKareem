@@ -30,11 +30,11 @@ public class Flows : Bot {
         while (IsRunning) {
             if (turnCounter % 64 == 0) {
                 TurnRate = 5;
-                TargetSpeed = movingForward ? 4 : -4;
+                TargetSpeed = movingForward ? 8 : -8;
             }
             if (turnCounter % 64 == 32) {
                 TurnRate = -5;
-                TargetSpeed = movingForward ? -6 : 6;
+                TargetSpeed = movingForward ? -8 : 8;  
             }
             if (turnCounter % 128 == 0) {
                 movingForward = !movingForward;
