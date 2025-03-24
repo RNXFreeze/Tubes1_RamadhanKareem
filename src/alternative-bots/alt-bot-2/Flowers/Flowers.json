@@ -1,0 +1,10 @@
+{
+  "name": "Flowers",
+  "version": "1.0",
+  "authors": ["Team Ramadhan Kareem", "Faqih"],
+  "description": "Simple DVD Bot",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 6.0",
+  "programmingLang": "C# 10.0"
+}
